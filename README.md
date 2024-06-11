@@ -47,7 +47,8 @@
 ![image](https://github.com/dudgus818/3DPuzzleGame/assets/114510370/14d6ff2a-7d11-4a5c-aff8-2bb51bdece87)
 
 ## 트러블슈팅 1
-![image](https://github.com/dudgus818/3DPuzzleSourceCode-C09-/assets/114510370/c93ec0a7-3c01-4bdf-b724-4e395a7dee64
+![image](https://github.com/dudgus818/3DPuzzleSourceCode-C09-/assets/114510370/430b8a65-b8eb-4d79-8397-4b61c8695c0e)
+
 
 ##해결
 ![image](https://github.com/dudgus818/3DPuzzleSourceCode-C09-/assets/114510370/b1ce829c-0e8a-4e19-889b-d0162b644594)

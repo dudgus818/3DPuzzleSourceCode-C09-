@@ -45,3 +45,18 @@
 
 ## UML
 ![image](https://github.com/dudgus818/3DPuzzleGame/assets/114510370/14d6ff2a-7d11-4a5c-aff8-2bb51bdece87)
+
+## 트러블슈팅 1
+![image](https://github.com/dudgus818/3DPuzzleSourceCode-C09-/assets/114510370/c93ec0a7-3c01-4bdf-b724-4e395a7dee64
+
+##해결
+![image](https://github.com/dudgus818/3DPuzzleSourceCode-C09-/assets/114510370/b1ce829c-0e8a-4e19-889b-d0162b644594)
+
+
+
+##트러블슈팅 2
+![image](https://github.com/dudgus818/3DPuzzleSourceCode-C09-/assets/114510370/c7978b32-fc8b-458f-9bfd-092633287e9a)
+
+
+##해결
+![image](https://github.com/dudgus818/3DPuzzleSourceCode-C09-/assets/114510370/bb01e834-7142-4b9c-85c6-74aac48cb057)
